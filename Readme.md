@@ -1,4 +1,4 @@
-# Automobile's Price Prediction using ML
+# End to End Automobile's Price Prediction using ML
 
 This project focuses on predicting automobile prices using data analysis and machine learning techniques. It involves conducting exploratory data analysis (EDA), visualizing data, selecting relevant features, building regression models, and making accurate price predictions.
 
